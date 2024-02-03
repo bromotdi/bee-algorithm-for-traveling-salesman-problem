@@ -88,7 +88,7 @@ https://en.wikipedia.org/wiki/Travelling_salesman_problem
 
 The problem with TSP is starting from one point and then going back to the starting point, asking for the entire shortest route. Specific the mathematical formula looks like this:
 
-![image.png](attachment:afedd292-4f8a-42da-9383-f5097e155e5e.png)
+![image](https://github.com/bromotdi/bee-algorithm-for-traveling-salesman-problem/assets/80320446/a622ec5d-f76c-4e20-b7a7-b94ef209cb3c)
 
 ## Summary
 
@@ -96,4 +96,5 @@ The algorithm of the artificial bee colony is mainly divided into three stages: 
 
 The whole principle is very similar to the principle of the genetic algorithm. The collection of bees is equivalent to the initialization of the parental chromosome. Watching the bees is equivalent to the offspring after choosing a roulette wheel. Scout bees cannot find the best solution in the limited time. The solution is then randomly initialized.
 
-![image.png](attachment:529ef86d-ede2-4513-a7a8-44caa677100b.png)
+![image](https://github.com/bromotdi/bee-algorithm-for-traveling-salesman-problem/assets/80320446/a5ef521d-e5f0-43b4-965a-cd67e4350518)
+
