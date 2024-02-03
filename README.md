@@ -1,4 +1,4 @@
-# Artificial Bee Colony algorithm to solve the Traveling Salesman Problem written in Python.
+# Artificial Bee Colony algorithm to solve the Traveling Salesman Problem written in Python
 
 ## Bee Algorithm
 
